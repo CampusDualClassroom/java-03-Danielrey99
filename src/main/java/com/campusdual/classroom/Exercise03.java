@@ -1,7 +1,5 @@
 package com.campusdual.classroom;
 
-import java.util.Objects;
-
 public class Exercise03 {
 
     // Esto es una funcion, ya que devuelve un valor
